@@ -1,3 +1,3 @@
 # Internship-work
 
-Online Transport Mamagement system using ASP .NET
+Online Transport Management system using ASP .NET
